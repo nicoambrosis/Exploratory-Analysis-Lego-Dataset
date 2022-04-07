@@ -1,6 +1,8 @@
 # Lego
 
-![Image text](https://github.com/nicoambrosis/Lego/blob/main/lego.jpg)
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Lego/blob/main/lego.jpg">
+</p>
 
 Lets do some Descriptive statistics.
 Let's make a graph showing the number of parts of the top 20 games in terms of number of parts.
